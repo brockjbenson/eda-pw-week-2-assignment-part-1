@@ -77,19 +77,18 @@ console.log(mostPets);
 //      You'll need to research how to use switch statements!
 switch (luckyNumber) {
     case 1:
-        console.log("First is the worst");
+        console.log('First is the worst');
         break;
     case 2:
-        console.log("Second is the best");
+        console.log('Second is the best');
         break;
     case 3:
-        console.log("Thir is the the one with the polka dot dress");
+        console.log('Third is the one with the polka dot dress');
         break;
     default:
-        console.log("Luck is what happens when preperation meets opprotunity");
+        console.log('Luck is what happens when preperation meets opprotunity');
         break;
 }
 // 18 -- Rewrite question 13 with a `ternary` operator. You'll need to do research!
 adventurous = (true) ? "Adventures are great!": "How about we stay home?";
 console.log(adventurous);
-
